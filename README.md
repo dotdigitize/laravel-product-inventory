@@ -1,6 +1,10 @@
 # Product Inventory Manager
 
-A Laravel app for managing product inventory.
+**Developer:** Jose Perez  
+**GitHub repository:** https://github.com/dotdigitize/laravel-product-inventory  
+**Live demo:** https://laravel.icom.website
+
+A Laravel application for managing product inventory with JSON storage.
 
 ## Installation
 
@@ -15,5 +19,3 @@ php artisan key:generate
 ```sh
 php artisan serve
 ```
-
-Developer: Jose Perez
